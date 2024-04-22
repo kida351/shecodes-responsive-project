@@ -160,6 +160,12 @@ footer h3 {
   margin: 20px 0 0;
   text-align: center;
 }
+footer h4 {
+  font-size: 30px;
+  position: relative;
+  top: 10px;
+  font-family: var(--default-font-family);
+}
 
 @media (max-width: 900px) {
   h1 {
